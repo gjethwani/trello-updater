@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle trello-updater",
+        "command": "trello-updater:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "trello-updater",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "trello-updater:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
