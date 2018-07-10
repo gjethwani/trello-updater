@@ -1,13 +1,13 @@
 {
-  "name": "trello-updater",
+  "name": "Trello Updater",
   "main": "./lib/trello-updater",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Trello Updater enables you to highlight comments written in a specific format then simply click a button and export the comment as a Trello card. It's designed for ease of use and speed, so that one does not have to keep opening trello",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "trello-updater:toggle"
   },
-  "repository": "https://github.com/atom/trello-updater",
+  "repository": "https://github.com/gjethwani/trello-updater",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
