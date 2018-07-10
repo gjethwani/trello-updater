@@ -1,25 +1,25 @@
-#trello-updater
+# trello-updater
 
 Welcome to trello-updater! This is a tool that lets you create Trello cards from code comments at the click of a button straight from Atom, removing the need to actually visit the Trello website. All you need to do is highlight the comment and click the "Send to Trello" button and you're good to go!
 
-##Installation
-######Command line:
+## Installation
+###### Command line:
 ```apm install atom-trello```
-######From Atom:
+###### From Atom:
 Go to `Preferences -> Install` then search for `trello-updater`, then click install.
 
-##Initial Setup
+## Initial Setup
 1. Go to the settings for trello-updater
 2. Click the link shown in settings to generate your Trello Developer keY, or visit this link: https://trello.com/1/appKey/generate (you may need to login to Trello if not already logged in)
 3. Copy your key and paste your developer key in the corresponding input.
 4. You will be redirected to a browser page containing your Trello token. Copy and paste this into the Token input.
 5. You should receive a message if the package successfully connected to Trello.
 
-##Activate the package
+## Activate the package
 - `Packages -> trello-updater -> toggle`
 - right-click and select `Toggle trello-updater`.
 
-##Sending a comment to Trello
+## Sending a comment to Trello
 Your comment needs to be in a certain format. Each parameter needs to be in the form `parameter:value` and all parameters need to be separated by semi-colons. The order and spacing does not matter. Here is an example:
 
 ```// board:sample-board;list:sample-list;name:sample-name;desc:this is a description```
