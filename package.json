@@ -1,5 +1,5 @@
 {
-  "name": "Trello Updater",
+  "name": "trello-updater",
   "main": "./lib/trello-updater",
   "version": "0.0.0",
   "description": "Trello Updater enables you to highlight comments written in a specific format then simply click a button and export the comment as a Trello card. It's designed for ease of use and speed, so that one does not have to keep opening trello",
