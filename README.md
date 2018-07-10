@@ -43,3 +43,5 @@ The above will create a card in a list called 'sample-list' in a board called 's
 Refer to https://developers.trello.com/reference/#cards-2 for more information.
 
 Once you have your comment, simple highlight the comment then click the "Send to Trello" button that is at the bottom of your Atom workspace and you will receive a notification that says your card was either added successfully or unsuccessfully
+
+Special thanks to [sgengler](https://github.com/sgengler)
