@@ -1,7 +1,3 @@
-# The largest heading
-## The second largest heading
-###### The smallest heading
-
 #trello-updater
 
 Welcome to trello-updater! This is a tool that lets you create Trello cards from code comments at the click of a button straight from Atom, removing the need to actually visit the Trello website. All you need to do is highlight the comment and click the "Send to Trello" button and you're good to go!
