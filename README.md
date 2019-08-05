@@ -12,8 +12,8 @@ Go to `Preferences -> Install` then search for `trello-updater`, then click inst
 1. Go to the settings for trello-updater
 2. Click the link shown in settings to generate your Trello Developer key, or visit this link: https://trello.com/1/appKey/generate (you may need to login to Trello if not already logged in)
 3. Copy your key and paste your developer key in the corresponding input.
-4. You will be redirected to a browser page containing your Trello token. Copy and paste this into the Token input.
-5. You should receive a message if the package successfully connected to Trello.
+4. You will be redirected to a browser page containing your Trello token. Copy and paste this into the Token input. If you are not redirected within a few seconds, click `Packages -> trello-updater -> toggle` after pasting your developer key.
+5. You should receive a message if the package successfully connected to Trello. If not, restart Atom.
 
 ## Activate the package
 - `Packages -> trello-updater -> toggle`
